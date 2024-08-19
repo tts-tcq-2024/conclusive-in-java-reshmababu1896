@@ -40,5 +40,4 @@ Think about guiding refactoring-work in your regular/project teams. Think of the
 
 You have seen a few workflows in this repository. They are quality-gates to prevent duplication, control complexity and prove functionality. Do you think some of them have potential to guide code-improvements in your team? Yes the cyclometric and modularity is something that ca be implemented in my project also the the test driven development is very useful to identify the bugs earlier stage and reduce the time and effort in fixing the bugs later.
 
-During the next four weeks, what improvement do you plan in your code-quality practice? (in your regular work, not in this repository!)
-I would be checking the above mentioned quality gates and writing codes based on them. After trying out these methods of writing code, it is very useful to write meaningful and understandable code.
+During the next four weeks, what improvement do you plan in your code-quality practice? (in your regular work, not in this repository!) I would be checking the above mentioned quality gates and writing codes based on them. After trying out these methods of writing code, it is very useful to write meaningful and understandable code.
