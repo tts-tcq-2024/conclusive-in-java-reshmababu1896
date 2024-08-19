@@ -1,5 +1,10 @@
 package TypewiseAlert;
 
+
+import TypewiseAlert.BreachClassifier.BreachType;
+import TypewiseAlert.BreachClassifier.CoolingType;
+import TypewiseAlert.AlertSender.AlertTarget;
+
 public class TypewiseAlert 
 {
     public enum BreachType {
