@@ -46,3 +46,5 @@ You have seen a few workflows in this repository. They are quality-gates to prev
 
 During the next four weeks, what improvement do you plan in your code-quality practice? (in your regular work, not in this repository!)
 **I would be checking the above mentioned quality gates and writing codes based on them. After trying out these methods of writing code, it is very useful to write meaningful and understandable code.**
+
+
